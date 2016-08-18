@@ -1,0 +1,29 @@
+table {
+   border: 1px solid black;
+width: 100%;
+
+align:center;
+}
+
+tr:hover {background-color: #f5f5f5}
+p:hover{background-color: white;
+
+font-size: em;
+font-family:Arial;}
+
+h1{
+text-align:center;}
+a{
+font-size:22;
+color:black;
+}
+body{
+background-image: url("background1.jpg");
+background-repeat: no-repeat;
+background-size: 1500px 1000px;
+font: veradana;
+}
+p{
+color:black;
+font-family:sans-serif;
+font-size:22;}

@@ -1,0 +1,37 @@
+body{
+
+background-image: url("background1.jpg");
+    background-repeat: no-repeat;
+background-size: 1500px 1500px;
+font-family:lobster;
+}
+table {
+border: 1px solid black;
+width: 100%;
+color:black;
+align:center;
+font-family:lobster;
+}
+
+tr:hover {background-color: #f5f5f5}
+p:hover{background-color: white;
+font-size: em;
+font-family:lobster;}
+
+h1{
+text-align:center;
+font-family:lobster;}
+
+.weight200 {font-weight:200 }
+
+.weight800 {font-weight:800 }
+
+
+a{
+font-size:22;
+color:black;
+}
+p{
+color:black;
+font-family:lobster;
+font-size:22;}
